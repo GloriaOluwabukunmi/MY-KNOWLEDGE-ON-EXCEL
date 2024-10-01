@@ -30,7 +30,7 @@
 
 
 
-#### MICROSOFT EXCEL
+#### MICROSOFT EXCEL 📖
 Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft Office suite. It allows organization, formating, and calculation of data using a system of rows and columns
 [Click_here](www.microsoft.com)
 
@@ -58,7 +58,7 @@ Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft 
 - MID
 - RIGHT
 
-#### TEXT CLEANING
+#### TEXT CLEANING 
 Text cleaning is the process of preparing and refining text data for analysis which involves removing or correcting elements that could interfere with data processing or analysis. It includes;
 - Removing Noise
 - Lowercasing: Converting all text to lowercase to ensure uniformity
