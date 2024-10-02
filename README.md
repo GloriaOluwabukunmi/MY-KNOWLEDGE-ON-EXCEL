@@ -35,6 +35,7 @@ Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft 
 [Click_here](www.microsoft.com)
 
 - #### SOME EXCEL FUNCTIONS
+ ---------------------------
  1. SUM
  2. AVERAGE
  3. MIN
@@ -44,6 +45,7 @@ Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft 
  7. RAND, RANDARRAY, RANDBETWEEN
 
 #### CONDITIONAL FUNCTIONS
+-------------------------------------------------------
 - IF, IFS
 - SWITCH
 - AND
@@ -54,6 +56,7 @@ Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft 
 - AVERAGEIF
   
 #### PRIMARY FUNCTIONS USED FOR EXTRACTING TEXT IN EXCEL
+---------------------------------------------------------------
 - LEFT
 - MID
 - RIGHT
