@@ -1,32 +1,31 @@
 ### MY KNOWLEDGE ON MICROSOFT EXCEL
 
-[MICROSOFT EXCEL](MICROSOFT_EXCEL)
+[MICROSOFT EXCEL](#microsoft-excel)
 
-[SOME EXCEL FUNCTIONS](SOMEEXCELFUNCTIONS)
+[EXCEL FUNCTIONS](#excel-functions)
 
-[CONDITIONAL FUNCTIONS](CONDITIONAL_FUNCTIONS)
+[CONDITIONAL FUNCTIONS](#conditional-functions)
 
-[PRIMARY FUNCTIONS USED FOR EXTRACTING TEXT IN EXCEL](PRIMARYFUNCTIONSUSEDFOREXTRACTINGTEXTINEXCEL)
+[PRIMARY FUNCTIONS USED FOR EXTRACTING TEXT IN EXCEL](#primary-functions-used-for-extracting-text-in-excel)
 
-[TEXT CLEANING](TEXT_CLEANING)
+[DATA CLEANING](#data-cleaning)
 
-[SOME FUNCTIONS USED FOR DATA CLEANING](SOMEFUNCTIONSUSEDFORDATACLEANING)
+[SOME FUNCTIONS USED FOR DATA CLEANING](#some-functions-used-for-data-cleaning)
 
-[NESTING](NESTING)
+[NESTING](#nesting)
 
-[LOOKUP FUNCTIONS](LOOKUP_FUNCTIONS)
+[LOOKUP FUNCTIONS](#lookup-functions)
 
-[DATA VALIDATION](DATA_VALIDATION)
+[DATA VALIDATION](#data-validation)
 
-[Shortcut for data validation](Shortcutfordatavalidation)
+[Shortcut for Data Validation](#shortcut-for-data-validation)
 
-[Types of Data Validation](TypesofDataValidation)
+[Types of Data Validation](#types-of-data-validation)
 
-[PIVOT TABLE](PIVOT_TABLE)
+[PIVOT TABLE](#pivot-table)
 
-[some shortcut keys for pivot table](someshortcutkeysforpivottable)
 
-[CHARTS CREATED USING PIVOT TABLE](CHARTSCREATEDUSINGPIVOTTABLE)
+[CHARTS CREATED USING PIVOT TABLE](#charts-created-using-pivot-table)
 
 
 
@@ -34,7 +33,7 @@
 Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft Office suite. It allows organization, formating, and calculation of data using a system of rows and columns
 [Click_here](www.microsoft.com)
 
-- #### SOME EXCEL FUNCTIONS
+- #### EXCEL FUNCTIONS
  ---------------------------
  1. SUM
  2. AVERAGE
@@ -61,7 +60,8 @@ Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft 
 - MID
 - RIGHT
 
-#### TEXT CLEANING 
+#### DATA CLEANING 
+---
 Text cleaning is the process of preparing and refining text data for analysis which involves removing or correcting elements that could interfere with data processing or analysis. It includes;
 - Removing Noise
 - Lowercasing: Converting all text to lowercase to ensure uniformity
@@ -75,6 +75,7 @@ Text cleaning is the process of preparing and refining text data for analysis wh
   3. PROPER
 
 #### NESTING
+---
 the practice of placing one function inside another function, it allows more complex calculations and data manipulation of data.
 example of nested function
 =IF (J8 <=20, "LOW", IF(J8 <=50, "MEDIUM", "HIGH"))
@@ -106,10 +107,11 @@ HLOOKUP(lookup_value, table_array, row_index_num, [range_lookup])
 7. INDIRECT
 
 ### DATA VALIDATION
+---
 It controls the data that enters the cells
 Ensure data integrity by setting rules for data entry
 
-##### Shortcut for data validation
+#### Shortcut for Data Validation
 - ALT+AVV
 
 #### Types of Data Validation
@@ -121,20 +123,20 @@ Ensure data integrity by setting rules for data entry
 - Text length
 - Custom
 
-  #### PIVOT TABLE 
+  #### DATA VISUALIZATION
+  ---
+  ##### PIVOT TABLE 
   Pivot table is a powerful excel tool used for data summarization
 
   It allows quick analysis of large dataset inorder to extract meaningful insights without needing to write complex formulas
-  
-   ##### some shortcut keys for pivot table:
-  - ctrl+shift+1 used to sort numbers
-  - 
+   - some shortcut keys used for pivot table:
+  1. ctrl+shift+1 used to sort numbers
      e.g 123456789 + 123,456,789
-    - Alt+F1 or Alt+F1+Fn to get a chart on the pivot table
-    - ctrl+X to cut the chart on the pivot table
-    - ctrl+V to paste the chart
-   
-      - #### CHARTS CREATED USING PIVOT TABLE
+    2. Alt+F1 or Alt+F1+Fn to get a chart on the pivot table
+    3. ctrl+X to cut the chart on the pivot table
+    4. ctrl+V to paste the chart
+
+- #### CHARTS CREATED USING PIVOT TABLE
 
  ![image](https://github.com/user-attachments/assets/b86a1bf7-f3a9-4680-8abd-5109ee3cf70a)
 
