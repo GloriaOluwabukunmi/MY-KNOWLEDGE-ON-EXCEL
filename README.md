@@ -30,7 +30,7 @@
 
 
 
-#### MICROSOFT EXCEL 📖
+#### MICROSOFT EXCEL📖
 Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft Office suite. It allows organization, formating, and calculation of data using a system of rows and columns
 [Click_here](www.microsoft.com)
 
